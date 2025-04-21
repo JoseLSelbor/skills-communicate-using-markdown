@@ -11,3 +11,9 @@
 ```
 sudo apt-get install -y mongodb-org
 ```
+
+### Task List for certification
+- [ ] Complete microsoft courses
+- [ ] Pass udemy mock exam
+- [ ] Request for voucher with evidence
+- [ ] Complete exam certification
