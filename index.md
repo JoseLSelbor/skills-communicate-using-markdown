@@ -6,3 +6,8 @@
 
 ### This is a link to an image
 ![Server not working due to cat sabotage](https://http.cat/images/500.jpg)
+
+### Code block to install mongodb
+```
+sudo apt-get install -y mongodb-org
+```
